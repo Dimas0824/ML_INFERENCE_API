@@ -1,0 +1,22 @@
+# Python version: 3.12.x  (Wajib)
+
+# FastAPI Core
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+pydantic-settings==2.1.0
+
+# ML Dependencies (Match environment training)
+numpy==2.0.2
+pandas==2.2.2
+scikit-learn==1.6.1
+joblib==1.5.2
+xgboost==3.1.1
+
+# Optional utilities
+python-multipart==0.0.6
+python-dotenv==1.0.0
+
+# Development tools
+pytest==7.4.3
+httpx==0.26.0
