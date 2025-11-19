@@ -8,7 +8,7 @@ pydantic-settings==2.1.0
 
 # ML Dependencies (Match environment training)
 numpy==2.0.2
-pandas==2.2.2
+pandas>=2.2.3
 scikit-learn==1.6.1
 joblib==1.5.2
 xgboost==3.1.1
