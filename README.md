@@ -280,15 +280,3 @@ Build and run:
 docker build -t ews-api .
 docker run -p 8000:8000 -v /path/to/models:/models ews-api
 ```
-
-## 📝 License
-
-MIT License
-
-## 👥 Contributors
-
-- Your Team Name
-
-## 📧 Support
-
-For issues and questions, please contact: your-email@example.com
